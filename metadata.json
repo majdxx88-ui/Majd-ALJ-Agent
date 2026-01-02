@@ -1,0 +1,7 @@
+{
+  "name": "Majd - ALJ Finance AI Agent",
+  "description": "A conversational AI agent representing Majd from Abdul Latif Jameel Finance using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
